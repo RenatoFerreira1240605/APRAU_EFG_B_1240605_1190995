@@ -1,0 +1,76 @@
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+.profile
+# Jupyter runtime/kernel
+.jupyter/
+.local/share/jupyter/runtime/
+.shared/share/jupyter/runtime/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Byte-compiled / cache
+*.pytest_cache/
+.pytest_cache/
+.pyre/
+.mypy_cache/
+.cache/
+
+# --- Notebooks outputs (opcional, se guardares figuras/exports) ---
+outputs/
+reports/
+figs/
+figures/
+*.png
+*.pdf
+*.svg
+
+# --- Dados (opcional: comenta se quiseres versionar) ---
+data/
+data/**/*
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.sqlite
+*.db
+*.zip
+*.gz
+*.bz2
+
+# --- IDE/OS ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs ---
+*.log
+
+# --- Coverage/Testing ---
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
