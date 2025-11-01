@@ -7,5 +7,5 @@ This repository contains the work developed by the Group 22 on step 1 of APRAU's
 
 ## Developed by
 - Renato Ferreira - 1240605
-- Ricardo Mesquita
+- Ricardo Mesquita - 1190995
 
