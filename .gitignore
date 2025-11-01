@@ -44,9 +44,9 @@ figures/
 *.svg
 
 # --- Dados (opcional: comenta se quiseres versionar) ---
-data/
-data/**/*
-*.csv
+#data/
+#data/**/*
+#*.csv
 *.tsv
 *.parquet
 *.feather
